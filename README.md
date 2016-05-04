@@ -3,7 +3,7 @@ The goal of this project was to learn more about the basics of Swift and deomons
 
   
 
-## Screen Shots of 
+## Screen Shots of App
 
 
 ![alt text](screenshots/home.png "The Home Page of the App")
@@ -11,12 +11,3 @@ The goal of this project was to learn more about the basics of Swift and deomons
 ![alt text](screenshots/task_list.png "The Task Lisk Page With Delete Functionality")
 
 ![alt text](screenshots/email.png "Email Option")
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
