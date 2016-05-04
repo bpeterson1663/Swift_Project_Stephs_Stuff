@@ -10,4 +10,4 @@ The goal of this project was to learn more about the basics of Swift and deomons
 
 ![alt text](screenshots/task_list.png "The Task Lisk Page With Delete Functionality")
 
-![alt text](screenshots/email.png "Email Option")
+![alt text](screenshots/email.PNG "Email Option")
